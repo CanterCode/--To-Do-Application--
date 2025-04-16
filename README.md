@@ -1,4 +1,5 @@
-# To-Do List Application (Python Final Project)
+# To-Do List Application
+## Intro to Python Final Project
 
 This is a simple command-line To-Do List application built in Python as a final project for the Intro to Python course.
 
